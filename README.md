@@ -28,7 +28,7 @@ Project Management Professional with 5+ years in B2B telecom, pivoting into dedi
 
 ## 🛠️ Tools & Skills
 
-`Jira` `Microsoft Project` `Workfront` `Salesforce``SQL` `Python` `Power BI` `Excel` `AWS (in progress)`
+`Jira` `Microsoft Project` `Workfront` `Salesforce` `SQL` `Python` `Power BI` `Excel` `AWS (in progress)`
 
 **PM Practices:** Agile/Scrum · SDLC · RAID Logs · Stakeholder Reporting · Risk Management · Process Optimization
 
